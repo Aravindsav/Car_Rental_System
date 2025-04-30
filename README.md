@@ -113,6 +113,4 @@ Car rented successfully.
 
 ---
 
-## 🙌 Author
 
-Made with ❤️ by a Java enthusiast.
